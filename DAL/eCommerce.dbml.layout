@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="eCommerce">
+  <DataContextMoniker Name="/eCommerceDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5bf9fff2-81ae-4a85-a3e3-e96baaae1db0" absoluteBounds="3.75, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/eCommerceDataContext/OrderItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a6018a1f-d3b0-445d-90b8-cb08a41249c7" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="24a41e6e-239b-4eaf-90a5-5717d8b1ef72" absoluteBounds="6.75, 0.75, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/eCommerceDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e80fdb55-36e3-4bcd-bd59-6e37a738360d" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6a4f3ba3-b86f-41eb-bc70-eadf7bb12665" absoluteBounds="4.125, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/eCommerceDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e71ba08b-c1c5-4382-b0c7-4e91309c2265" absoluteBounds="4.14, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fb66a473-ae94-4ed1-bc25-3f3771174720" absoluteBounds="8.625, 3, 2, 1.3862939453125">
+      <DataClassMoniker Name="/eCommerceDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b37da257-c01d-406d-801f-aabb0b710a5e" absoluteBounds="8.64, 3.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7878e0d4-bfa9-43dc-8d77-8a72a4d7c6df" absoluteBounds="1.5, 1.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/eCommerceDataContext/Brand" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41dcfbf2-59c6-4642-839f-e5d08fd3f36f" absoluteBounds="1.5149999999999997, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5ad5bc65-0d13-4a52-82c5-8f2142c36180" absoluteBounds="1.5, 4, 2, 2.5401025390625">
+      <DataClassMoniker Name="/eCommerceDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aa32e9d3-e78d-4b8b-97ca-7b502c971de6" absoluteBounds="1.5149999999999997, 4.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
